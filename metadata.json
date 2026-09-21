@@ -1,0 +1,6 @@
+{
+  "name": "SPLICER AI",
+  "description": "A private, local-first Android work intelligence layer that connects authorized work sources and uncovers project state, blockers, and next actions with on-device AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
